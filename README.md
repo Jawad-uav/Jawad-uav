@@ -1,8 +1,12 @@
-# Hi, I'm Jawad Haider
+# Hi Dude, I'm Jawad Haider
 
 Electronics Technologist interested in **UAVs, Embedded Systems, PCB Design, and Hardware Development**.
 
-I enjoy designing and building electronics projects from schematic to PCB, as well as working with RC aircraft, UAVs, microcontrollers, and embedded systems.
+I enjoy(like, literally enjoy) designing and building electronics projects from schematic to PCB, as well as working with RC aircraft, UAVs, microcontrollers, and embedded systems.
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
 ## Areas of Interest
 
@@ -15,6 +19,9 @@ I enjoy designing and building electronics projects from schematic to PCB, as we
 - Electronics Prototyping
 - ArduPilot and Flight Control Systems
 
+</td>
+<td width="50%" valign="top">
+
 ## Tools & Technologies
 
 - Altium Designer
@@ -25,22 +32,15 @@ I enjoy designing and building electronics projects from schematic to PCB, as we
 - Gazebo / SITL
 - PCB Design and Prototyping
 
-## Featured Projects
+</td>
+</tr>
+</table>
 
-### L298N Dual Motor Driver
-Custom L298N dual H-bridge motor driver PCB with current sensing, motor direction LEDs, power indication LEDs, flyback protection, onboard 5 V regulation, and high-current PCB routing.
+## Social Profiles
 
-### STM32F411CE + MPU6050 IMU Development Board
-Custom STM32 development board featuring an STM32F411CEU6, MPU6050 IMU, USB connectivity, SWD debugging, GPIO expansion, and onboard 3.3 V regulation.
-
-### ADS7128 8-Channel ADC & GPIO Expander
-Custom breakout board based on the ADS7128, providing 8 configurable analog/digital channels with I2C connectivity.
-
-### Flite Test Sparrow – Night Fury
-Built a Flite Test Sparrow RC aircraft from Depron foam board and later customized it with a black Night Fury-inspired paint scheme.
-
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/jawad-uav)
-
-[GitHub](https://github.com/Jawad-uav)
+<a href="https://www.linkedin.com/in/jawad-uav">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/jawad____haider/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram">
+</a>
