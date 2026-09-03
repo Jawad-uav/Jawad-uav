@@ -38,9 +38,10 @@ I enjoy(like, literally enjoy) designing and building electronics projects from 
 
 ## Social Profiles
 
-<a href="https://www.linkedin.com/in/jawad-uav">
+<a href="https://www.linkedin.com/in/jawad-uav" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn">
 </a>
-<a href="https://www.instagram.com/jawad____haider/">
+
+<a href="https://www.instagram.com/jawad____haider/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram">
 </a>
