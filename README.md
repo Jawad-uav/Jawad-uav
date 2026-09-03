@@ -1,6 +1,6 @@
 # Hi Dude, I'm Jawad Haider
 
-Electronics Technologist interested in **UAVs, Embedded Systems, PCB Design, and Hardware Development**.
+Electronics Hobbyist interested in **UAVs, Embedded Systems, PCB Design, and Hardware Development**.
 
 I enjoy(like, literally enjoy) designing and building electronics projects from schematic to PCB, as well as working with RC aircraft, UAVs, microcontrollers, and embedded systems.
 
